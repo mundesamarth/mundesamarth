@@ -8,8 +8,7 @@
 - 🔭 I’m currently working on **AI Customer Support Agent (LLM-powered chatbot)**
 - 🌱 I’m learning **Fine-tuning LLMs & Retrieval-Augmented Generation (RAG)**
 - 💬 Ask me about **LLMs, LangChain, OpenAI, and Cloud AI Deployments**
-- 📫 How to reach me: **your-email@example.com**
-- 📄 Know about my experiences: [Resume](your-resume-link)
+- 📫 How to reach me: **munde.samarth28@gmail.com**
 
 ---
 
