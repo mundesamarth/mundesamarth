@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samarth Munde</h1>
-<h3 align="center">AI Engineer | LLM Developer | Cloud AI Enthusiast</h3>
+<h3 align="center"> DevOps| CyberSecurity | Cloud AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mundesamarth&label=Profile%20Views&color=0e75b6&style=flat" alt="mundesamarth" />
@@ -7,12 +7,26 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **AI Customer Support Agent (LLM-powered chatbot)**  
-- 🌱 I’m learning **Fine-tuning LLMs & Retrieval-Augmented Generation (RAG)**  
-- 💬 Ask me about **LLMs, LangChain, OpenAI, and Cloud AI Deployments**  
+I’m a **DevOps & Infrastructure Engineer** passionate about building scalable, high-performance cloud infrastructure.  
+I specialize in **AWS, CI/CD, and automation**, ensuring systems are resilient, secure, and efficient.  
 - 🎓 I recently completed my **Master’s in Cybersecurity** from **City, University of London**  
-- 📍 Based in **London, UK**  
+- 📍 Based in **London, UK**
 
+## 🔹 What I Do  
+- Design and maintain **AWS cloud infrastructure** with scalability and security in mind  
+- Build and optimize **CI/CD pipelines** for fast, reliable deployments  
+- Implement **monitoring & observability** to keep critical systems running smoothly  
+- Advocate for **DevOps best practices**, including infrastructure as code and automation  
+
+## 📚 Currently Learning  
+- Advanced AWS architectures & security best practices  
+- Kubernetes & container orchestration  
+- DevSecOps & zero-trust security models  
+
+## 💡 Let’s Connect!  
+I love collaborating on projects, discussing DevOps strategies, and solving infrastructure challenges.  
+Feel free to reach out!
+  
 - 📫 How to reach me: **munde.samarth28@gmail.com**
 
 ---
@@ -63,7 +77,7 @@
 
 ---
 
-### 🚀 Featured AI Projects
+### 🚀 Featured Projects
 #### **1️⃣ AI Customer Support Agent (LangChain, OpenAI)**
 - Integrated OpenAI’s **Llama-3.1** model to handle customer queries  
 - Optimized **prompt engineering & retrieval methods** for accurate responses  
@@ -79,15 +93,6 @@
 - **Developed AI Solutions**: Built using **Streamlit & OpenAI API**  
 
 🔗 **GitHub Repo**: [RAG Chatbot](https://github.com/mundesamarth/RAG-CHATBOT.git)
-
----
-
-#### **3️⃣ Memory-Powered Chatbot**
-- **LangChain-powered chatbot** with **contextual recall & memory handling**  
-- **Optimized API interactions** with OpenAI for dynamic conversations  
-- **Secure deployment** with environment variables (.env)  
-
-🔗 **GitHub Repo**: [Memory Chatbot](https://github.com/mundesamarth/langstream.git)
 
 ---
 
