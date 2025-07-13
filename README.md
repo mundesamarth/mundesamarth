@@ -1,31 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samarth Munde</h1>
-<h3 align="center"> DevOps| CyberSecurity | Cloud AI Enthusiast</h3>
+<h3 align="center"> Data Engineer | Data Analystics / BI Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mundesamarth&label=Profile%20Views&color=0e75b6&style=flat" alt="mundesamarth" />
 </p>
 
-## 🚀 About Me
-
-I’m a **DevOps & Infrastructure Engineer** passionate about building scalable, high-performance cloud infrastructure.  
-I specialize in **AWS, CI/CD, and automation**, ensuring systems are resilient, secure, and efficient.  
-- 🎓 I recently completed my **Master’s in Cybersecurity** from **City, University of London**  
-- 📍 Based in **London, UK**
-
-## 🔹 What I Do  
-- Design and maintain **AWS cloud infrastructure** with scalability and security in mind  
-- Build and optimize **CI/CD pipelines** for fast, reliable deployments  
-- Implement **monitoring & observability** to keep critical systems running smoothly  
-- Advocate for **DevOps best practices**, including infrastructure as code and automation  
-
-## 📚 Currently Learning  
-- Advanced AWS architectures & security best practices  
-- Kubernetes & container orchestration  
-- DevSecOps & zero-trust security models  
-
-## 💡 Let’s Connect!  
-I love collaborating on projects, discussing DevOps strategies, and solving infrastructure challenges.  
-Feel free to reach out!
   
 - 📫 How to reach me: **munde.samarth28@gmail.com**
 
